@@ -1,4 +1,4 @@
-This is the README markdown file.
+This is the README markdown file updated.
 
 List of some git commands:
 1. git touch - to create a file
