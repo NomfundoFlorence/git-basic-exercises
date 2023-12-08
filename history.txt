@@ -1,0 +1,123 @@
+    1  git clone https://github.com/Umuzi-org/NomfundoFlorence-Mlangeni-394-bash-for-bootcamp-.git
+    2  git status
+    3  cd NomfundoFlorence-Mlangeni-394-bash-for-bootcamp-
+    4  git status
+    5  vim question_1.md
+    6  git push
+    7  git add question_1.md
+    8  git commit -m "*Added question1*"
+    9  git add question_1.md
+   10  git commit "*Added question1*"
+   11  rm question_1.md
+   12  vim question_1.md
+   13  git status
+   14  git add question_1.md
+   15  git status
+   16  git commit -m "Added question1"
+   17  git status
+   18  git push
+   19  vim question_2.md
+   20  git status
+   21  git add question_2.md
+   22  git status
+   23  git commit - m "Added question2"
+   24  git commit -m "Added question2"
+   25  git push
+   26  vim question_3.md
+   27  git add question_3.md 
+   28  git commit -m "Added question3"
+   29  git push
+   30  vim question_4.md
+   31  git add question_4.md 
+   32  git commit -m "Added question4"
+   33  git push
+   34  vim question_5.md
+   35  git add question_5.md 
+   36  git commit -m "Added question5"
+   37  git push
+   38  vim question_6.md
+   39  git add question_6.md 
+   40  git commit -m "Added question6"
+   41  git push
+   42  vim question_7.md
+   43  git add question_7.md 
+   44  git commit -m "Added question7"
+   45  git push
+   46  vim question_8.md
+   47  git add question_8.md 
+   48  git commit -m "Added question8"
+   49  git push
+   50  vim question_9.md
+   51  git add question_9.md 
+   52  git commit -m "Added question9"
+   53  git push
+   54  vim question_10.md
+   55  git add question_10.md 
+   56  git commit -m "Added question10"
+   57  git push
+   58  vim question_11.md
+   59  git add question_11.md 
+   60  git commit -m "Added question11"
+   61  git push
+   62  vim question_12.md
+   63  git add question_12.md 
+   64  git commit -m "Added question12"
+   65  git push
+   66  vim question_13.md
+   67  git add question_13.md 
+   68  git commit -m "Added question13"
+   69  git push
+   70  mkdir git-basic-exercises
+   71  cd git-basic-exercises
+   72  ls -a
+   73  git init
+   74  ls -a
+   75  touch README.md
+   76  ls -a
+   77  git status
+   78  git log
+   79  git add README.md
+   80  git status
+   81  git reset HEAD README.md
+   82  git restore --staged README.md
+   83  git reset
+   84  git status
+   85  git add README.md
+   86  git commit -m "initail commit"
+   87  git log
+   88  q
+   89  nano README.md
+   90  cat README.md
+   91  git status
+   92  git add
+   93  git add README.md
+   94  git commit -m "second commit"
+   95  nano README.md
+   96  git commit -m "third commit"
+   97  git add README.md
+   98  git commit -m "third commit"
+   99  git log
+  100  q
+  101  git checkout f7f8c3984d27826990095a308914b5586099655f
+  102  git cat README.md
+  103  cat README.md
+  104  git checkout main
+  105  gi checkout master
+  106  git checkout master
+  107  cat README.md
+  108  git branch
+  109  git branch milkshake-flavours
+  110  git branch
+  111  git switch milkshake-flavours
+  112  git branch
+  113  nano milkshakes.md
+  114  git status
+  115  git add milkshakes.md
+  116  git commit -m "added initial flavours"
+  117  git log
+  118  git checkout master
+  119  git branch history
+  120  git checkout history
+  121  git log
+  122  git branch
+  123  history > history.txt
